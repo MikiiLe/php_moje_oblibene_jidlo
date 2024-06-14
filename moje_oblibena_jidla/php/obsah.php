@@ -26,7 +26,7 @@ $navod = [
 ];
 ?>
 <div class="obsah">
-    <h2>Název Jídla</h2>
+    <h2>Polívka Pho</h2>
     <img src="img/obrazek.jpg" alt="Oblíbené jídlo">
     
     <h3>Seznam Ingrediencí</h3>
